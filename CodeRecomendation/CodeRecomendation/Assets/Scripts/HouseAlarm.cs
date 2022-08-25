@@ -5,11 +5,7 @@ using UnityEngine;
 public class HouseAlarm : MonoBehaviour
 {
     [SerializeField] private AudioSource _alarmSound;
-    private bool _isTurnedOn = false;
-    private void Update()
-    {
 
-    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.TryGetComponent<Player>(out Player player))
@@ -30,8 +26,12 @@ public class HouseAlarm : MonoBehaviour
     private IEnumerator ChangeVolume()
     {
         _alarmSound.Play();
-        _alarmSound.volume = Mathf.MoveTowards(0, 1, 5f * Time.deltaTime);
-        
-        yield return new WaitForSeconds(3f);
-    }     
+
+        for (int i = 0; i < 10; i++)
+        {
+            _alarmSound.volume = Mathf.MoveTowards(0, 1, 0.1f * Time.deltaTime);
+            Debug.Log("Подсчет цикла");
+            yield return null;
+        }
+    }
 }
