@@ -6,12 +6,18 @@ public class HouseAlarm : MonoBehaviour
 {
     [SerializeField] private AudioSource _alarmSound;
     private WaitForSeconds _waitForOneSecond = new WaitForSeconds(1);
+    private Coroutine _changedVolume;
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.TryGetComponent<Player>(out Player player))
         {
+            if(_changedVolume != null)
+            {
+                StopCoroutine(_changedVolume);
+            }
             _alarmSound.Play();
-            StartCoroutine(ChangeVolume(1));
+            _changedVolume = StartCoroutine(ChangeVolume(1));
         }
     }
 
@@ -19,8 +25,8 @@ public class HouseAlarm : MonoBehaviour
     {
         if (collision.TryGetComponent<Player>(out Player player))
         {
-            StopCoroutine(ChangeVolume(1));
-            StartCoroutine(ChangeVolume(0));
+             StopCoroutine(_changedVolume);
+            _changedVolume = StartCoroutine(ChangeVolume(0));
         }
     }
 
