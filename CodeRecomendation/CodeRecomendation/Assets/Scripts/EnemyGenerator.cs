@@ -14,10 +14,11 @@ public class EnemyGenerator : MonoBehaviour
     {
         StartCoroutine(Spawn());
     }
+
     private Enemy GetNewInstance()
     {
-            Vector3 prefabPosition = _pointsToSpawn[Random.Range(0, _pointsToSpawn.Count)].position;
-            return Instantiate(_prefab, prefabPosition, Quaternion.identity);
+        Vector3 prefabPosition = _pointsToSpawn[Random.Range(0, _pointsToSpawn.Count)].position;
+        return Instantiate(_prefab, prefabPosition, Quaternion.identity);
     }
 
     private IEnumerator Spawn()
