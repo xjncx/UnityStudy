@@ -7,7 +7,7 @@ public class EnemyGenerator : MonoBehaviour
     [SerializeField] private Enemy _prefab;
     [SerializeField] private List<Transform> _pointsToSpawn;
 
-    private bool isSpawning = true;
+    private bool _isSpawning = true;
     private WaitForSeconds _waitForTwoSeconds = new WaitForSeconds(2);
 
     private void Start()
@@ -23,7 +23,7 @@ public class EnemyGenerator : MonoBehaviour
 
     private IEnumerator Spawn()
     {
-        while (isSpawning)
+        while (_isSpawning)
         {
             GetNewInstance();
             yield return _waitForTwoSeconds;
