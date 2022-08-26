@@ -882,7 +882,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _alarmSound: {fileID: 1170917135}
-  _alarmSoundSpeed: 0.2
+  _alarmSoundSpeed: 0.05
 --- !u!114 &882604667
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1087,7 +1087,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 08d2dae933cb18044a42f03f8feb9ff0, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 89ec4a247743eaf4481ad69639b314f1, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0
   m_Pitch: 1
@@ -1368,7 +1368,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2011331692
 MonoBehaviour:
   m_ObjectHideFlags: 0

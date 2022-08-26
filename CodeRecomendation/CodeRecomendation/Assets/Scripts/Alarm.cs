@@ -9,8 +9,10 @@ public class Alarm : MonoBehaviour
     [SerializeField] private AudioSource _alarmSound;
     [SerializeField] private float _alarmSoundSpeed;
 
-    private WaitForSeconds _waitForOneSecond = new WaitForSeconds(1);
+    private WaitForSeconds _waitForMilliSecond = new WaitForSeconds(0.1f);
     private Coroutine _changedVolume;
+    private float _decreaseVolume = 0;
+    private float _increaseVolume = 1;
 
     public void TurnOnAlarm()
     {
@@ -19,24 +21,24 @@ public class Alarm : MonoBehaviour
             StopCoroutine(_changedVolume);
         }
         _alarmSound.Play();
-        _changedVolume = StartCoroutine(ChangeVolume(1));
+        _changedVolume = StartCoroutine(ChangeVolume(_increaseVolume));
     }
 
     public void TurnOffAlarm()
     {
         StopCoroutine(_changedVolume);
-        _changedVolume = StartCoroutine(ChangeVolume(0));
+        _changedVolume = StartCoroutine(ChangeVolume(_decreaseVolume));
     }
 
     private IEnumerator ChangeVolume(float direction)
     {
-        for (int i = 0; i < 5; i++)
+        while (_alarmSound.volume != direction)
         {
             _alarmSound.volume = Mathf.MoveTowards(_alarmSound.volume, direction, _alarmSoundSpeed);
-            yield return _waitForOneSecond;
+            yield return _waitForMilliSecond;
         }
 
-        if (direction == 0)
+        if (direction == _decreaseVolume)
         {
             _alarmSound.Stop();
         }
