@@ -10,7 +10,7 @@ public class House : MonoBehaviour
     {
         if (collision.TryGetComponent<Player>(out Player player))
         {
-            _alarm.TurnOnAlarm();
+            _alarm.TurnOn();
         }
     }
 
@@ -18,7 +18,7 @@ public class House : MonoBehaviour
     {
         if (collision.TryGetComponent<Player>(out Player player))
         {
-            _alarm.TurnOffAlarm();
+            _alarm.TurnOff();
         }
     }
 }

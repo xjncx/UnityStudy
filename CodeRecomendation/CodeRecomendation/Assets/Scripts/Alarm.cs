@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 
@@ -11,23 +10,23 @@ public class Alarm : MonoBehaviour
 
     private WaitForSeconds _waitForMilliSecond = new WaitForSeconds(0.1f);
     private Coroutine _changedVolume;
-    private float _decreaseVolume = 0;
-    private float _increaseVolume = 1;
+    private float _minVolume = 0;
+    private float _maxVolume = 1;
 
-    public void TurnOnAlarm()
+    public void TurnOn()
     {
         if (_changedVolume != null)
         {
             StopCoroutine(_changedVolume);
         }
         _alarmSound.Play();
-        _changedVolume = StartCoroutine(ChangeVolume(_increaseVolume));
+        _changedVolume = StartCoroutine(ChangeVolume(_maxVolume));
     }
 
-    public void TurnOffAlarm()
+    public void TurnOff()
     {
         StopCoroutine(_changedVolume);
-        _changedVolume = StartCoroutine(ChangeVolume(_decreaseVolume));
+        _changedVolume = StartCoroutine(ChangeVolume(_minVolume));
     }
 
     private IEnumerator ChangeVolume(float direction)
@@ -38,7 +37,7 @@ public class Alarm : MonoBehaviour
             yield return _waitForMilliSecond;
         }
 
-        if (direction == _decreaseVolume)
+        if (direction == _minVolume)
         {
             _alarmSound.Stop();
         }
