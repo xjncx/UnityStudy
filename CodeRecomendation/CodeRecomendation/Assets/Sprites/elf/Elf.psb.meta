@@ -1,0 +1,2599 @@
+fileFormatVersion: 2
+guid: e77a1e4902e1c8b4998f87cd9d981ada
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 400
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Forma 113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 943
+      y: 1811
+      width: 6
+      height: 10
+    spriteID: 61cb610f9d6405449b9d4830c0013b7d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 548, y: 1420}
+  - name: Forma 112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 907
+      y: 1957
+      width: 11
+      height: 22
+    spriteID: 658ce19f56c0f5d4c8ab1bb9a70142b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 515, y: 1513}
+  - name: Forma 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 907
+      y: 1987
+      width: 0
+      height: 0
+    spriteID: 6e4e5dad78e8b7643a64eb7aefeaf091
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 151, y: 740}
+  - name: Forma 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 915
+      y: 1987
+      width: 0
+      height: 0
+    spriteID: 4692326bdef38124bbdadf1fdc8e1b48
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 159, y: 740}
+  - name: Forma 107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 867
+      y: 3775
+      width: 52
+      height: 62
+    spriteID: 8cedaf5b8f6641949818c12c1b40d30d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 473, y: 2955}
+  - name: Forma 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 654
+      y: 2388
+      width: 75
+      height: 51
+    spriteID: c6c0178545f8aa6489a4970d40910d37
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 290, y: 1568}
+  - name: Forma 103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 879
+      y: 1811
+      width: 56
+      height: 28
+    spriteID: 680811768e4dd024480f66530d6fa3c4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 509, y: 1017}
+  - name: Forma 7_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 657
+      y: 2326
+      width: 71
+      height: 39
+    spriteID: 3565153369c15cf418a6e884a448318f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 530, y: 1441}
+  - name: Forma 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2856
+      width: 393
+      height: 358
+    spriteID: 9ad5665809d9fa7448885d8c9424efe1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -103, y: 2131}
+  - name: Forma 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 1765
+      width: 95
+      height: 102
+    spriteID: a6fff900ce9eb994c8779bdff87055c8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 316, y: 895}
+  - name: Capa 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 943
+      y: 1829
+      width: 0
+      height: 0
+    spriteID: 6d8e3f2559907a94196d0df7ed85a868
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 187, y: 582}
+  - name: Forma 87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 562
+      width: 475
+      height: 494
+    spriteID: f9e7bdddec052c441a6d1c4a68a1a159
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -165, y: -130}
+  - name: Forma 85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 516
+      height: 550
+    spriteID: 37ae4735dd838dd4482e24ae56e20663
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -68, y: -693}
+  - name: Forma 16_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3675
+      width: 115
+      height: 92
+    spriteID: ee13ec43ffb388241b264c1a8650f5cf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 489, y: 2767}
+  - name: Forma 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 405
+      y: 3490
+      width: 104
+      height: 83
+    spriteID: efa81eaec92c0424793a6ca1adab4b69
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 150, y: 2577}
+  - name: Forma 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3863
+      width: 116
+      height: 62
+    spriteID: 53307dac9d4cdee43b46a3c55c2ecae3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 335, y: 2957}
+  - name: Forma 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 1875
+      width: 94
+      height: 60
+    spriteID: f38d7a3703bb6d44cb900ee1b606e5d9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -10, y: 959}
+  - name: Forma 7_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 943
+      y: 1837
+      width: 0
+      height: 0
+    spriteID: 619523901274b3d4a80ef0df54255f9e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 187, y: 590}
+  - name: Forma 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4036
+      width: 200
+      height: 51
+    spriteID: 3cff87d08c7b6234a961bfd379e4f575
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -275, y: 3154}
+  - name: Forma 89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3022
+      width: 166
+      height: 108
+    spriteID: ca51f20e26c92d541904e2a3b0b5a6f4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 421, y: 2003}
+  - name: Forma 88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 2892
+      width: 207
+      height: 122
+    spriteID: 428ea36904c7c0f478a8fe70dbfc38b1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 450, y: 1879}
+  - name: Forma 108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3588
+      width: 299
+      height: 440
+    spriteID: a6affc3e7b0f3314cacacca03b325e9f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -141, y: 2897}
+  - name: Forma 10_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3222
+      width: 393
+      height: 358
+    spriteID: 1c93bf600477b2445a44259031988039
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -123, y: 2500}
+  - name: Forma 9_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2449
+      width: 409
+      height: 399
+    spriteID: 971779c53686ec447964497aa8d31dcb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -112, y: 1735}
+  - name: Forma 86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1533
+      width: 400
+      height: 452
+    spriteID: 9bdec22f4e76d6d438005f2180d70e4e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -168, y: 821}
+  - name: Forma 91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 4
+      width: 423
+      height: 243
+    spriteID: 045c1bdb4700e5c409f5826b8be938cd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 458, y: -544}
+  - name: Forma 90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 255
+      width: 416
+      height: 246
+    spriteID: a32c76d4b25694741a676c191d764354
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 450, y: -298}
+  - name: Forma 105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 763
+      y: 1998
+      width: 152
+      height: 60
+    spriteID: c0c0827c4d57bc44896403b3d2afde60
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 763, y: 1661}
+  - name: Forma 104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 2754
+      width: 201
+      height: 130
+    spriteID: b2c3f328f4112d74692c34ba77921b1f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 737, y: 2448}
+  - name: Capa 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 951
+      y: 1829
+      width: 0
+      height: 0
+    spriteID: c470a347cbe74304da2710efb42afde3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 195, y: 582}
+  - name: Forma 102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 2643
+      width: 78
+      height: 182
+    spriteID: 987fe8904603de94a831a3ab7caf1f89
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -13, y: 2134}
+  - name: Forma 97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 421
+      y: 2449
+      width: 87
+      height: 186
+    spriteID: 92afee1e41303f24db4a2e7bdf66baae
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -21, y: 1927}
+  - name: Forma 101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 1201
+      width: 258
+      height: 241
+    spriteID: f2db26229bd8cc844a58e3f2967777b0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 505, y: 695}
+  - name: Forma 96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 2308
+      width: 211
+      height: 206
+    spriteID: 443f7dfd1d57a944999070371421c81e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 676, y: 1786}
+  - name: Forma 114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3258
+      width: 174
+      height: 80
+    spriteID: 5fa770f0d2eaf7844a6a24d988e2ecc5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 715, y: 2813}
+  - name: Forma 109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3138
+      width: 133
+      height: 112
+    spriteID: dbf430895e2183843ab585a6323939c8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 676, y: 2619}
+  - name: Forma 29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 395
+      y: 2170
+      width: 76
+      height: 232
+    spriteID: a476147c328fec24faed447b7e2a07b8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 332, y: 1744}
+  - name: Forma 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 311
+      y: 3588
+      width: 142
+      height: 341
+    spriteID: 5f521f42b76fa1a44abb04b021ae77bd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 270, y: 3234}
+  - name: Forma 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3582
+      width: 156
+      height: 85
+    spriteID: f7034336770e54a4e8633b186f283af9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 692, y: 3374}
+  - name: Forma 23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 1450
+      width: 249
+      height: 226
+    spriteID: 494d1dcaa1e2be142aa75e7ea420a48b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 497, y: 1221}
+  - name: Forma 131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 2082
+      width: 205
+      height: 218
+    spriteID: 732f66f87d381734d861ebf91fdd8143
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 737, y: 1913}
+  - name: Forma 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 2082
+      width: 201
+      height: 236
+    spriteID: e5e153c33589b5a438e88cf4a625d0d6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 510, y: 1886}
+  - name: Forma 52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 907
+      y: 1849
+      width: 25
+      height: 100
+    spriteID: 7129dd5d617c03e479bada4825973703
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 486, y: 1560}
+  - name: Forma 42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3462
+      width: 120
+      height: 112
+    spriteID: 028988f6961c5ad47899a742cb9fc216
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 412, y: 3183}
+  - name: Forma 39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 405
+      y: 3095
+      width: 107
+      height: 99
+    spriteID: 0880af80775115b4db0b1a38301073fb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 72, y: 2805}
+  - name: Forma 51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 911
+      y: 3022
+      width: 34
+      height: 82
+    spriteID: 48bfa88b5660f0a488d2bb541b63af81
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 440, y: 2715}
+  - name: Forma 43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 1684
+      width: 343
+      height: 157
+    spriteID: 50e7a043a940aa1419b1b4ea9607afeb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 355, y: 1420}
+  - name: Forma 38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 959
+      y: 103
+      width: 268
+      height: 94
+    spriteID: e4a42ddf4bf23fa43bde06088f44139b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 738, y: -197}
+  - name: Forma 100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 509
+      width: 347
+      height: 261
+    spriteID: 88b6e38b8d8fa134c990b50f514e48dc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 352, y: 419}
+  - name: Forma 92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 778
+      width: 298
+      height: 223
+    spriteID: c850eb78b2b1ae342adba69d432e92ea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 317, y: 672}
+  - name: Forma 111 copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 901
+      y: 3582
+      width: 48
+      height: 60
+    spriteID: acd6c966eeaedfb48843164229a8b297
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 559, y: 3184}
+  - name: Forma 111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 861
+      y: 3863
+      width: 48
+      height: 60
+    spriteID: e7084afb21cd91a4b926956b0faf3e01
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 454, y: 3467}
+  - name: Forma 27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 1009
+      width: 348
+      height: 184
+    spriteID: 4948095daf174a448925bb6c457215a3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 336, y: 605}
+  - name: Forma 110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 959
+      y: 4
+      width: 299
+      height: 91
+    spriteID: 5dd8d00532e49994c8126efa3acd76b5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 792, y: -521}
+  - name: Forma 28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1064
+      width: 429
+      height: 461
+    spriteID: 3feb01faa86ff9c49b231f82bbb86484
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -116, y: 716}
+  - name: Capa 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 951
+      y: 1837
+      width: 0
+      height: 0
+    spriteID: 9041e888eaa528241b3add5a511e50b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 195, y: 590}
+  - name: Forma 26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1993
+      width: 383
+      height: 448
+    spriteID: 65e5e07094b61af4e953baae6612116c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -127, y: 1642}
+  - name: Forma 122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 879
+      y: 1684
+      width: 62
+      height: 119
+    spriteID: 227c425097bed46499f18030bc28c5a4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 363, y: 1279}
+  - name: Forma 106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 395
+      y: 1993
+      width: 105
+      height: 169
+    spriteID: 63b0b939f7fe7494bb28bcaa4b839efa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -114, y: 1586}
+  - name: Forma 53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 311
+      y: 3937
+      width: 189
+      height: 141
+    spriteID: c2abc5b435496d141a24c5b29b305e45
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -256, y: 3460}
+  - name: Forma 36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 785
+      y: 1450
+      width: 136
+      height: 209
+    spriteID: 3f926dee8a0d15440883ef5eab8af5fa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 181, y: 1087}
+  - name: Forma 132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 1849
+      width: 227
+      height: 225
+    spriteID: ca2008e693f1e9b4398b37fd936869b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1, y: 1498}
+  - name: Forma 35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 2522
+      width: 191
+      height: 224
+    spriteID: 6d73aa344c3c97e409f6338e7e2dea1f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 174, y: 2181}
+  - name: Forma 33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 405
+      y: 3222
+      width: 88
+      height: 260
+    spriteID: 04a638f4a7a40c049833f834b6e2024e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -77, y: 2789}
+  - name: Forma 32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 794
+      y: 1201
+      width: 121
+      height: 233
+    spriteID: b4491d60d4fab70479060739cccc43d3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 322, y: 760}
+  - name: Forma 95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 641
+      y: 2507
+      width: 81
+      height: 42
+    spriteID: ac2d03a0f33ad23459b16aa17a6f0ddb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 387, y: 2430}
+  - name: Forma 98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 4000
+      width: 115
+      height: 57
+    spriteID: 2a31ddb7c484a3944a3fc0c500fe39bf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 3935}
+  - name: Forma 93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 2388
+      width: 118
+      height: 52
+    spriteID: 1dcaaa2cd19be3d4797c917d1699e6f0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 314, y: 2320}
+  - name: Forma 99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 2326
+      width: 121
+      height: 54
+    spriteID: c97743abf31b7e14193c335a63a60706
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 324, y: 2286}
+  - name: Forma 94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3933
+      width: 112
+      height: 59
+    spriteID: 89575c17de9c69b47873c8317f87e973
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 524, y: 3901}
+  - name: Forma 95_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 636
+      y: 2562
+      width: 70
+      height: 36
+    spriteID: fea0ecc4a4061144caf80f550ab83aa6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 224, y: 2479}
+  - name: Forma 98_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 2562
+      width: 100
+      height: 49
+    spriteID: c5afbcb973da7e14b82ba8eee572ada5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 153, y: 2489}
+  - name: Forma 93_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 2619
+      width: 102
+      height: 45
+    spriteID: e233aec7b9466d0488cddffd468bb248
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 151, y: 2544}
+  - name: Forma 99_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 2507
+      width: 105
+      height: 47
+    spriteID: 81fa80a3ab4429942865ec4a80a3c57b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 159, y: 2456}
+  - name: Forma 94_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 2448
+      width: 97
+      height: 51
+    spriteID: 1e86bcc864451dd4ab03ef0c83ff4954
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 152, y: 2404}
+  - name: Forma 115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3775
+      width: 122
+      height: 80
+    spriteID: 5ee808eee2b50164ea306aa0e1213b27
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 372, y: 3660}
+  - name: Forma 124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 763
+      y: 1849
+      width: 136
+      height: 141
+    spriteID: 9b5ed21a33c24f54b9b5b7a68e6e4d49
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 400, y: 1736}
+  - name: Forma 49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 1533
+      width: 61
+      height: 224
+    spriteID: 26f0cd57fe3e0c14b8c3842836aa17c8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 19, y: 1533}
+  - name: Forma 47 copia 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 834
+      y: 778
+      width: 90
+      height: 220
+    spriteID: af285a8fce0178b4ea28575110f1bc86
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 452, y: 768}
+  - name: Forma 123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 737
+      y: 3346
+      width: 125
+      height: 108
+    spriteID: 7ddbdde1074b5db4a93d09b5c58d9f02
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 525, y: 3203}
+  - name: Forma 48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 883
+      y: 509
+      width: 66
+      height: 238
+    spriteID: dd5f5000b701abc4881691eadca9f157
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 654, y: 509}
+  - name: Forma 47 copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 405
+      y: 2856
+      width: 109
+      height: 231
+    spriteID: d2a880fd73d6c314c8e767b8237283c8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 181, y: 2856}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 756, y: 1247}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: elf
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 473
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 113
+    spriteName: Forma 113
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 61cb610f9d6405449b9d4830c0013b7d
+    layerID: 598
+    mosaicPosition: {x: 943, y: 1811}
+  - name: Forma 112
+    spriteName: Forma 112
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 658ce19f56c0f5d4c8ab1bb9a70142b4
+    layerID: 597
+    mosaicPosition: {x: 907, y: 1957}
+  - name: head copia 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 571
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 16
+    spriteName: Forma 16
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 6e4e5dad78e8b7643a64eb7aefeaf091
+    layerID: 568
+    mosaicPosition: {x: 907, y: 1987}
+  - name: Forma 2
+    spriteName: Forma 2
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 4692326bdef38124bbdadf1fdc8e1b48
+    layerID: 559
+    mosaicPosition: {x: 915, y: 1987}
+  - name: Forma 107
+    spriteName: Forma 107
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 8cedaf5b8f6641949818c12c1b40d30d
+    layerID: 585
+    mosaicPosition: {x: 867, y: 3775}
+  - name: Forma 7
+    spriteName: Forma 7
+    isGroup: 0
+    parentIndex: 3
+    spriteID: c6c0178545f8aa6489a4970d40910d37
+    layerID: 556
+    mosaicPosition: {x: 654, y: 2388}
+  - name: Forma 103
+    spriteName: Forma 103
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 680811768e4dd024480f66530d6fa3c4
+    layerID: 573
+    mosaicPosition: {x: 879, y: 1811}
+  - name: head copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 522
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 7
+    spriteName: Forma 7_1
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 3565153369c15cf418a6e884a448318f
+    layerID: 515
+    mosaicPosition: {x: 657, y: 2326}
+  - name: Forma 10
+    spriteName: Forma 10
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 9ad5665809d9fa7448885d8c9424efe1
+    layerID: 511
+    mosaicPosition: {x: 4, y: 2856}
+  - name: Forma 9
+    spriteName: Forma 9
+    isGroup: 0
+    parentIndex: 9
+    spriteID: a6fff900ce9eb994c8779bdff87055c8
+    layerID: 510
+    mosaicPosition: {x: 412, y: 1765}
+  - name: head
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 454
+    mosaicPosition: {x: 0, y: 0}
+  - name: Capa 3
+    spriteName: Capa 3
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 6d8e3f2559907a94196d0df7ed85a868
+    layerID: 574
+    mosaicPosition: {x: 943, y: 1829}
+  - name: Forma 87
+    spriteName: Forma 87
+    isGroup: 0
+    parentIndex: 13
+    spriteID: f9e7bdddec052c441a6d1c4a68a1a159
+    layerID: 483
+    mosaicPosition: {x: 4, y: 562}
+  - name: Forma 85
+    spriteName: Forma 85
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 37ae4735dd838dd4482e24ae56e20663
+    layerID: 478
+    mosaicPosition: {x: 4, y: 4}
+  - name: Forma 16
+    spriteName: Forma 16_1
+    isGroup: 0
+    parentIndex: 13
+    spriteID: ee13ec43ffb388241b264c1a8650f5cf
+    layerID: 447
+    mosaicPosition: {x: 737, y: 3675}
+  - name: Forma 4
+    spriteName: Forma 4
+    isGroup: 0
+    parentIndex: 13
+    spriteID: efa81eaec92c0424793a6ca1adab4b69
+    layerID: 446
+    mosaicPosition: {x: 405, y: 3490}
+  - name: Forma 15
+    spriteName: Forma 15
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 53307dac9d4cdee43b46a3c55c2ecae3
+    layerID: 445
+    mosaicPosition: {x: 737, y: 3863}
+  - name: Forma 3
+    spriteName: Forma 3
+    isGroup: 0
+    parentIndex: 13
+    spriteID: f38d7a3703bb6d44cb900ee1b606e5d9
+    layerID: 444
+    mosaicPosition: {x: 412, y: 1875}
+  - name: Forma 7
+    spriteName: Forma 7_2
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 619523901274b3d4a80ef0df54255f9e
+    layerID: 441
+    mosaicPosition: {x: 943, y: 1837}
+  - name: Forma 6
+    spriteName: Forma 6
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 3cff87d08c7b6234a961bfd379e4f575
+    layerID: 440
+    mosaicPosition: {x: 4, y: 4036}
+  - name: Forma 89
+    spriteName: Forma 89
+    isGroup: 0
+    parentIndex: 13
+    spriteID: ca51f20e26c92d541904e2a3b0b5a6f4
+    layerID: 487
+    mosaicPosition: {x: 737, y: 3022}
+  - name: Forma 88
+    spriteName: Forma 88
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 428ea36904c7c0f478a8fe70dbfc38b1
+    layerID: 485
+    mosaicPosition: {x: 737, y: 2892}
+  - name: Forma 108
+    spriteName: Forma 108
+    isGroup: 0
+    parentIndex: 13
+    spriteID: a6affc3e7b0f3314cacacca03b325e9f
+    layerID: 587
+    mosaicPosition: {x: 4, y: 3588}
+  - name: Forma 10
+    spriteName: Forma 10_1
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 1c93bf600477b2445a44259031988039
+    layerID: 436
+    mosaicPosition: {x: 4, y: 3222}
+  - name: Forma 9
+    spriteName: Forma 9_1
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 971779c53686ec447964497aa8d31dcb
+    layerID: 435
+    mosaicPosition: {x: 4, y: 2449}
+  - name: Forma 86
+    spriteName: Forma 86
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 9bdec22f4e76d6d438005f2180d70e4e
+    layerID: 480
+    mosaicPosition: {x: 4, y: 1533}
+  - name: Forma 91
+    spriteName: Forma 91
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 045c1bdb4700e5c409f5826b8be938cd
+    layerID: 493
+    mosaicPosition: {x: 528, y: 4}
+  - name: Forma 90
+    spriteName: Forma 90
+    isGroup: 0
+    parentIndex: 13
+    spriteID: a32c76d4b25694741a676c191d764354
+    layerID: 491
+    mosaicPosition: {x: 528, y: 255}
+  - name: left arm
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 472
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 105
+    spriteName: Forma 105
+    isGroup: 0
+    parentIndex: 31
+    spriteID: c0c0827c4d57bc44896403b3d2afde60
+    layerID: 581
+    mosaicPosition: {x: 763, y: 1998}
+  - name: Forma 104
+    spriteName: Forma 104
+    isGroup: 0
+    parentIndex: 31
+    spriteID: b2c3f328f4112d74692c34ba77921b1f
+    layerID: 579
+    mosaicPosition: {x: 737, y: 2754}
+  - name: Capa 2
+    spriteName: Capa 2
+    isGroup: 0
+    parentIndex: 31
+    spriteID: c470a347cbe74304da2710efb42afde3
+    layerID: 551
+    mosaicPosition: {x: 951, y: 1829}
+  - name: Forma 102
+    spriteName: Forma 102
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 987fe8904603de94a831a3ab7caf1f89
+    layerID: 535
+    mosaicPosition: {x: 421, y: 2643}
+  - name: Forma 97
+    spriteName: Forma 97
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 92afee1e41303f24db4a2e7bdf66baae
+    layerID: 524
+    mosaicPosition: {x: 421, y: 2449}
+  - name: Forma 101
+    spriteName: Forma 101
+    isGroup: 0
+    parentIndex: 31
+    spriteID: f2db26229bd8cc844a58e3f2967777b0
+    layerID: 533
+    mosaicPosition: {x: 528, y: 1201}
+  - name: Forma 96
+    spriteName: Forma 96
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 443f7dfd1d57a944999070371421c81e
+    layerID: 504
+    mosaicPosition: {x: 737, y: 2308}
+  - name: Forma 114
+    spriteName: Forma 114
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 5fa770f0d2eaf7844a6a24d988e2ecc5
+    layerID: 601
+    mosaicPosition: {x: 737, y: 3258}
+  - name: Forma 109
+    spriteName: Forma 109
+    isGroup: 0
+    parentIndex: 31
+    spriteID: dbf430895e2183843ab585a6323939c8
+    layerID: 589
+    mosaicPosition: {x: 737, y: 3138}
+  - name: Forma 29
+    spriteName: Forma 29
+    isGroup: 0
+    parentIndex: 31
+    spriteID: a476147c328fec24faed447b7e2a07b8
+    layerID: 460
+    mosaicPosition: {x: 395, y: 2170}
+  - name: Forma 19
+    spriteName: Forma 19
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 5f521f42b76fa1a44abb04b021ae77bd
+    layerID: 459
+    mosaicPosition: {x: 311, y: 3588}
+  - name: Forma 21
+    spriteName: Forma 21
+    isGroup: 0
+    parentIndex: 31
+    spriteID: f7034336770e54a4e8633b186f283af9
+    layerID: 458
+    mosaicPosition: {x: 737, y: 3582}
+  - name: Forma 23
+    spriteName: Forma 23
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 494d1dcaa1e2be142aa75e7ea420a48b
+    layerID: 457
+    mosaicPosition: {x: 528, y: 1450}
+  - name: Forma 131
+    spriteName: Forma 131
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 732f66f87d381734d861ebf91fdd8143
+    layerID: 665
+    mosaicPosition: {x: 737, y: 2082}
+  - name: Forma 20
+    spriteName: Forma 20
+    isGroup: 0
+    parentIndex: 31
+    spriteID: e5e153c33589b5a438e88cf4a625d0d6
+    layerID: 456
+    mosaicPosition: {x: 528, y: 2082}
+  - name: toga
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 429
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 52
+    spriteName: Forma 52
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 7129dd5d617c03e479bada4825973703
+    layerID: 428
+    mosaicPosition: {x: 907, y: 1849}
+  - name: Forma 42
+    spriteName: Forma 42
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 028988f6961c5ad47899a742cb9fc216
+    layerID: 427
+    mosaicPosition: {x: 737, y: 3462}
+  - name: Forma 39
+    spriteName: Forma 39
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 0880af80775115b4db0b1a38301073fb
+    layerID: 426
+    mosaicPosition: {x: 405, y: 3095}
+  - name: Forma 51
+    spriteName: Forma 51
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 48bfa88b5660f0a488d2bb541b63af81
+    layerID: 425
+    mosaicPosition: {x: 911, y: 3022}
+  - name: Forma 43
+    spriteName: Forma 43
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 50e7a043a940aa1419b1b4ea9607afeb
+    layerID: 424
+    mosaicPosition: {x: 528, y: 1684}
+  - name: Forma 38
+    spriteName: Forma 38
+    isGroup: 0
+    parentIndex: 47
+    spriteID: e4a42ddf4bf23fa43bde06088f44139b
+    layerID: 423
+    mosaicPosition: {x: 959, y: 103}
+  - name: Forma 100
+    spriteName: Forma 100
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 88b6e38b8d8fa134c990b50f514e48dc
+    layerID: 531
+    mosaicPosition: {x: 528, y: 509}
+  - name: Forma 92
+    spriteName: Forma 92
+    isGroup: 0
+    parentIndex: 47
+    spriteID: c850eb78b2b1ae342adba69d432e92ea
+    layerID: 495
+    mosaicPosition: {x: 528, y: 778}
+  - name: body
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 394
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 111 copia
+    spriteName: Forma 111 copia
+    isGroup: 0
+    parentIndex: 56
+    spriteID: acd6c966eeaedfb48843164229a8b297
+    layerID: 599
+    mosaicPosition: {x: 901, y: 3582}
+  - name: Forma 111
+    spriteName: Forma 111
+    isGroup: 0
+    parentIndex: 56
+    spriteID: e7084afb21cd91a4b926956b0faf3e01
+    layerID: 596
+    mosaicPosition: {x: 861, y: 3863}
+  - name: Forma 27
+    spriteName: Forma 27
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 4948095daf174a448925bb6c457215a3
+    layerID: 390
+    mosaicPosition: {x: 528, y: 1009}
+  - name: Forma 110
+    spriteName: Forma 110
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 5dd8d00532e49994c8126efa3acd76b5
+    layerID: 591
+    mosaicPosition: {x: 959, y: 4}
+  - name: Forma 28
+    spriteName: Forma 28
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 3feb01faa86ff9c49b231f82bbb86484
+    layerID: 389
+    mosaicPosition: {x: 4, y: 1064}
+  - name: Capa 4
+    spriteName: Capa 4
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 9041e888eaa528241b3add5a511e50b4
+    layerID: 592
+    mosaicPosition: {x: 951, y: 1837}
+  - name: Forma 26
+    spriteName: Forma 26
+    isGroup: 0
+    parentIndex: 56
+    spriteID: 65e5e07094b61af4e953baae6612116c
+    layerID: 388
+    mosaicPosition: {x: 4, y: 1993}
+  - name: right arm
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 386
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 122
+    spriteName: Forma 122
+    isGroup: 0
+    parentIndex: 64
+    spriteID: 227c425097bed46499f18030bc28c5a4
+    layerID: 641
+    mosaicPosition: {x: 879, y: 1684}
+  - name: Forma 106
+    spriteName: Forma 106
+    isGroup: 0
+    parentIndex: 64
+    spriteID: 63b0b939f7fe7494bb28bcaa4b839efa
+    layerID: 583
+    mosaicPosition: {x: 395, y: 1993}
+  - name: Forma 53
+    spriteName: Forma 53
+    isGroup: 0
+    parentIndex: 64
+    spriteID: c2abc5b435496d141a24c5b29b305e45
+    layerID: 380
+    mosaicPosition: {x: 311, y: 3937}
+  - name: Forma 36
+    spriteName: Forma 36
+    isGroup: 0
+    parentIndex: 64
+    spriteID: 3f926dee8a0d15440883ef5eab8af5fa
+    layerID: 379
+    mosaicPosition: {x: 785, y: 1450}
+  - name: Forma 132
+    spriteName: Forma 132
+    isGroup: 0
+    parentIndex: 64
+    spriteID: ca2008e693f1e9b4398b37fd936869b4
+    layerID: 667
+    mosaicPosition: {x: 528, y: 1849}
+  - name: Forma 35
+    spriteName: Forma 35
+    isGroup: 0
+    parentIndex: 64
+    spriteID: 6d73aa344c3c97e409f6338e7e2dea1f
+    layerID: 378
+    mosaicPosition: {x: 737, y: 2522}
+  - name: Forma 33
+    spriteName: Forma 33
+    isGroup: 0
+    parentIndex: 64
+    spriteID: 04a638f4a7a40c049833f834b6e2024e
+    layerID: 373
+    mosaicPosition: {x: 405, y: 3222}
+  - name: Forma 32
+    spriteName: Forma 32
+    isGroup: 0
+    parentIndex: 64
+    spriteID: b4491d60d4fab70479060739cccc43d3
+    layerID: 372
+    mosaicPosition: {x: 794, y: 1201}
+  - name: right leg copia
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 544
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 95
+    spriteName: Forma 95
+    isGroup: 0
+    parentIndex: 73
+    spriteID: ac2d03a0f33ad23459b16aa17a6f0ddb
+    layerID: 543
+    mosaicPosition: {x: 641, y: 2507}
+  - name: Forma 98
+    spriteName: Forma 98
+    isGroup: 0
+    parentIndex: 73
+    spriteID: 2a31ddb7c484a3944a3fc0c500fe39bf
+    layerID: 542
+    mosaicPosition: {x: 737, y: 4000}
+  - name: Forma 93
+    spriteName: Forma 93
+    isGroup: 0
+    parentIndex: 73
+    spriteID: 1dcaaa2cd19be3d4797c917d1699e6f0
+    layerID: 541
+    mosaicPosition: {x: 528, y: 2388}
+  - name: Forma 99
+    spriteName: Forma 99
+    isGroup: 0
+    parentIndex: 73
+    spriteID: c97743abf31b7e14193c335a63a60706
+    layerID: 540
+    mosaicPosition: {x: 528, y: 2326}
+  - name: Forma 94
+    spriteName: Forma 94
+    isGroup: 0
+    parentIndex: 73
+    spriteID: 89575c17de9c69b47873c8317f87e973
+    layerID: 539
+    mosaicPosition: {x: 737, y: 3933}
+  - name: right leg
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 370
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 95
+    spriteName: Forma 95_1
+    isGroup: 0
+    parentIndex: 79
+    spriteID: fea0ecc4a4061144caf80f550ab83aa6
+    layerID: 501
+    mosaicPosition: {x: 636, y: 2562}
+  - name: Forma 98
+    spriteName: Forma 98_1
+    isGroup: 0
+    parentIndex: 79
+    spriteID: c5afbcb973da7e14b82ba8eee572ada5
+    layerID: 526
+    mosaicPosition: {x: 528, y: 2562}
+  - name: Forma 93
+    spriteName: Forma 93_1
+    isGroup: 0
+    parentIndex: 79
+    spriteID: e233aec7b9466d0488cddffd468bb248
+    layerID: 497
+    mosaicPosition: {x: 528, y: 2619}
+  - name: Forma 99
+    spriteName: Forma 99_1
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 81fa80a3ab4429942865ec4a80a3c57b
+    layerID: 528
+    mosaicPosition: {x: 528, y: 2507}
+  - name: Forma 94
+    spriteName: Forma 94_1
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 1e86bcc864451dd4ab03ef0c83ff4954
+    layerID: 499
+    mosaicPosition: {x: 528, y: 2448}
+  - name: Forma 115
+    spriteName: Forma 115
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 5ee808eee2b50164ea306aa0e1213b27
+    layerID: 603
+    mosaicPosition: {x: 737, y: 3775}
+  - name: Forma 124
+    spriteName: Forma 124
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 9b5ed21a33c24f54b9b5b7a68e6e4d49
+    layerID: 645
+    mosaicPosition: {x: 763, y: 1849}
+  - name: Forma 49
+    spriteName: Forma 49
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 26f0cd57fe3e0c14b8c3842836aa17c8
+    layerID: 368
+    mosaicPosition: {x: 412, y: 1533}
+  - name: Forma 47 copia 3
+    spriteName: Forma 47 copia 3
+    isGroup: 0
+    parentIndex: 79
+    spriteID: af285a8fce0178b4ea28575110f1bc86
+    layerID: 367
+    mosaicPosition: {x: 834, y: 778}
+  - name: left leg
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 365
+    mosaicPosition: {x: 0, y: 0}
+  - name: Forma 123
+    spriteName: Forma 123
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 7ddbdde1074b5db4a93d09b5c58d9f02
+    layerID: 643
+    mosaicPosition: {x: 737, y: 3346}
+  - name: Forma 48
+    spriteName: Forma 48
+    isGroup: 0
+    parentIndex: 89
+    spriteID: dd5f5000b701abc4881691eadca9f157
+    layerID: 363
+    mosaicPosition: {x: 883, y: 509}
+  - name: Forma 47 copia 2
+    spriteName: Forma 47 copia 2
+    isGroup: 0
+    parentIndex: 89
+    spriteID: d2a880fd73d6c314c8e767b8237283c8
+    layerID: 362
+    mosaicPosition: {x: 405, y: 2856}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: 2d character_human Texture
+  prefabAssetName: 2d character_human Prefab
+  spriteLibAssetName: 2d character_human Sprite Lib
+  secondarySpriteTextures: []
