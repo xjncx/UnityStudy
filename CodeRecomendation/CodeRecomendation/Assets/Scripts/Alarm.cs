@@ -1,8 +1,6 @@
 using System.Collections;
 using UnityEngine;
 
-
-//3.HouseAlarm - Сирена не должна проверять что в нее кто то вошел это ответственность двери
 public class Alarm : MonoBehaviour
 {
     [SerializeField] private AudioSource _alarmSound;

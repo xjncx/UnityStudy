@@ -1,16 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class House : MonoBehaviour
 {
-    [SerializeField] private Alarm _alarm;
+    [SerializeField] private UnityEvent _entered;
+    [SerializeField] private UnityEvent _left;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.TryGetComponent<Player>(out Player player))
         {
-            _alarm.TurnOn();
+            _entered?.Invoke();
         }
     }
 
@@ -18,7 +20,7 @@ public class House : MonoBehaviour
     {
         if (collision.TryGetComponent<Player>(out Player player))
         {
-            _alarm.TurnOff();
+            _left?.Invoke();
         }
     }
 }
